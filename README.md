@@ -12,6 +12,7 @@
 - すべての人にインタラクティブ・ダッシュボードを.pdf：ＬＴ説明資料
 - dashboard：インタラクティブ・ダッシュボードの例(Python)
 
-## 使い方
+## インタラクティブ・ダッシュボードの使い方
+- PythonのWebフレームワーク Dash を使用しています。
 - Terminalから"python index.py"で起動後、ブラウザを開いて http://127.0.0.1:8050 にアクセス
 - Terminalから　control + c　で停止。
