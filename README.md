@@ -16,3 +16,4 @@
 - PythonのWebフレームワーク Dash を使用しています。
 - Terminalから"python index.py"で起動後、ブラウザを開いて http://127.0.0.1:8050 にアクセス
 - Terminalから　control + c　で停止。
+- 「気づき」の保存機能など実装していない箇所がありますので、ご了承ください。
